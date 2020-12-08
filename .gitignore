@@ -51,3 +51,7 @@ geckodriver.log
 *.code-workspace
 .history
 .vscode
+
+# source/project files ignored by author
+MNIST_tutorial.ipynb
+PyTorch_Hello_World.ipynb
