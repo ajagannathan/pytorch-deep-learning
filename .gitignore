@@ -55,3 +55,8 @@ geckodriver.log
 # source/project files ignored by author
 MNIST_tutorial.ipynb
 PyTorch_Hello_World.ipynb
+*.tar
+
+# directories ignored by author
+data/256_ObjectCategories
+data/TransferLearning
